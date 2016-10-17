@@ -5,6 +5,15 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetDemo/NetDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/NetDemo/NetDemo.iml" group="NetDemo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetDemo/NetDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/NetDemo/NetDemo_main.iml" group="NetDemo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetDemo/NetDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/NetDemo/NetDemo_test.iml" group="NetDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringBufferDemo/StringBufferDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/StringBufferDemo/StringBufferDemo.iml" group="StringBufferDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringBufferDemo/StringBufferDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/StringBufferDemo/StringBufferDemo_main.iml" group="StringBufferDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringBufferDemo/StringBufferDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/StringBufferDemo/StringBufferDemo_test.iml" group="StringBufferDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringDemo/StringDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/StringDemo/StringDemo.iml" group="StringDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringDemo/StringDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/StringDemo/StringDemo_main.iml" group="StringDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StringDemo/StringDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/StringDemo/StringDemo_test.iml" group="StringDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily/daily.iml" filepath="$PROJECT_DIR$/.idea/modules/daily/daily.iml" group="daily" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily/daily_main.iml" filepath="$PROJECT_DIR$/.idea/modules/daily/daily_main.iml" group="daily" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily/daily_test.iml" filepath="$PROJECT_DIR$/.idea/modules/daily/daily_test.iml" group="daily" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/feicui_java.iml" filepath="$PROJECT_DIR$/.idea/modules/feicui_java.iml" />
     </modules>
   </component>

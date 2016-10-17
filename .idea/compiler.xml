@@ -19,8 +19,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="daily_main" target="1.8" />
+      <module name="daily_test" target="1.8" />
       <module name="NetDemo_main" target="1.8" />
       <module name="NetDemo_test" target="1.8" />
+      <module name="StringBufferDemo_main" target="1.8" />
+      <module name="StringBufferDemo_test" target="1.8" />
+      <module name="StringDemo_main" target="1.8" />
+      <module name="StringDemo_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

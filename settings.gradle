@@ -1,2 +1,5 @@
 include 'NetDemo'
+include 'StringDemo'
+include 'StringBufferDemo'
+include 'daily'
 
